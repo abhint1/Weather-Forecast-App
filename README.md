@@ -15,7 +15,7 @@ This is a simple Weather Forecast web application built using React. It allows u
 
 You can check out a live demo of the app at [Demo Link]([https://your-demo-link.com](https://6547adc986d572573658770e--creative-rugelach-9bef86.netlify.app/)).
 
-![Weather Forecast App Screenshot](/screenshot.png)
+![Weather Forecast App Screenshot](/screenshot.jpg)
 
 ## Features
 

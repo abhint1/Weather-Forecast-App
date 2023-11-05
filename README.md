@@ -9,7 +9,7 @@ This is a simple Weather Forecast web application built using React. It allows u
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 
@@ -68,7 +68,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Commit your changes and provide a descriptive commit message.
 5. Push your changes to your fork.
 6. Submit a pull request to the main repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

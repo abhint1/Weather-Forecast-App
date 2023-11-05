@@ -15,7 +15,7 @@ This is a simple Weather Forecast web application built using React. It allows u
 
 You can check out a live demo of the app at [Demo Link] (https://6547adc986d572573658770e--creative-rugelach-9bef86.netlify.app/)).
 
-![Weather Forecast App Screenshot](/screenshot.jpg)
+![Weather Forecast App Screenshot](/image.jpg)
 
 ## Features
 
@@ -29,7 +29,7 @@ To run the Weather Forecast React App locally, follow these steps:
 
 1. Clone this repository:
 
-git clone [https://github.com/yourusername/weather-forecast-react-app.git](https://github.com/abhint1/Weather-Forecast-App.git)
+git clone https://github.com/abhint1/Weather-Forecast-App.git
 
 2. Navigate to the project directory:
 
